@@ -19,5 +19,11 @@
   "homepage": "https://github.com/dom1k11/AI-reviewer#readme",
   "dependencies": {
     "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^9.29.0",
+    "eslint-plugin-vue": "^10.2.0",
+    "globals": "^16.2.0"
   }
 }
