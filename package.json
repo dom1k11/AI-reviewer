@@ -1,0 +1,23 @@
+{
+  "name": "ai-reviewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dom1k11/AI-reviewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dom1k11/AI-reviewer/issues"
+  },
+  "homepage": "https://github.com/dom1k11/AI-reviewer#readme",
+  "dependencies": {
+    "vue-router": "^4.5.1"
+  }
+}
